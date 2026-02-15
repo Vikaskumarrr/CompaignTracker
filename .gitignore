@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Virtual environment
+backend/venv/
+
+# Environment files
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+
+# Database
+backend/test.db
+*.db
+
+# OS
+.DS_Store
+
+#env files 
+.env
