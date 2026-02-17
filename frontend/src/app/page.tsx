@@ -99,7 +99,7 @@ export default function Home() {
             transition={{ duration: 0.8, ease: "easeOut" }}
           >
             <h1 className="text-5xl font-bold tracking-tight text-white sm:text-6xl lg:text-7xl leading-tight">
-              Dheeraj Project for{" "}
+              Vikas Project for{" "}
               <span className="bg-gradient-to-r from-violet-400 via-purple-400 to-indigo-400 bg-clip-text text-transparent">
                 Social Booster Media
               </span>
@@ -111,12 +111,12 @@ export default function Home() {
             </p>
             <div className="mt-8 flex flex-col gap-4 sm:flex-row lg:justify-end">
               <a
-                href="https://debugwithdheeraj.com/"
+                href="https://bytebrainvikas.in/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center justify-center rounded-full bg-gradient-to-r from-violet-600 to-indigo-600 px-8 py-3.5 text-base font-semibold text-white shadow-lg shadow-violet-500/25 transition-all duration-300 hover:shadow-xl hover:shadow-violet-500/40 hover:scale-105"
               >
-                Who is Dheeraj
+                Who is Vikas
                 <svg className="ml-2 h-5 w-5 transition-transform duration-300 group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
                 </svg>
@@ -365,7 +365,7 @@ export default function Home() {
               © 2026 Campaign Tracker. Built for Social Booster Media.
             </p>
             <p className="text-sm text-gray-600">
-              Made with ❤️ by <a href="https://debugwithdheeraj.com/" target="_blank" rel="noopener noreferrer" className="text-violet-400 hover:text-violet-300 transition-colors">Dheeraj</a>
+              Made with ❤️ by <a href="https://bytebrainvikas.in/" target="_blank" rel="noopener noreferrer" className="text-violet-400 hover:text-violet-300 transition-colors">Vikas</a>
             </p>
           </div>
         </div>
