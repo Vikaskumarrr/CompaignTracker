@@ -8,6 +8,13 @@ Features:
 - Trending news integration via NewsAPI
 - Animated landing page with Framer Motion
 
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/64456aec-5dea-4870-8289-64b5240a290d" />
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/99deffdc-65b5-46ee-b493-0db871fdd82f" />
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/736851e1-4d1a-4902-94e7-7b9035fe65d9" />
+<img width="1920" height="910" alt="image" src="https://github.com/user-attachments/assets/900f6361-1be4-4ab6-9ea9-449a42d9fb23" />
+
+
+
 ## Project Structure
 
 ```
